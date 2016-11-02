@@ -22,3 +22,4 @@ Besides the [inherited ones](https://github.com/pires/docker-elasticsearch#envir
 
 * [DISCOVERY_SERVICE](https://github.com/fabric8io/elasticsearch-cloud-kubernetes#kubernetes-pod-discovery)
 * [NAMESPACE](https://github.com/fabric8io/elasticsearch-cloud-kubernetes#kubernetes-pod-discovery)
+* [CACHE_EXPIRATION_MS] (https://www.elastic.co/guide/en/elasticsearch/reference/1.4/index-modules-shard-query-cache.html#_cache_settings)

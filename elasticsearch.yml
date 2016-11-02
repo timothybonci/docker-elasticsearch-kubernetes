@@ -34,3 +34,5 @@ discovery:
 index:
     number_of_shards: ${NUMBER_OF_SHARDS}
     number_of_replicas: ${NUMBER_OF_REPLICAS}
+
+indices.cache.query.expire: ${CACHE_EXPIRATION_MS}
